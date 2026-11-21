@@ -1,5 +1,3 @@
-## Hi, I'm Vladyslav
-
 Java Backend Developer | Spring Boot
 
 [My pet project](https://github.com/iden8/infonurebot)
