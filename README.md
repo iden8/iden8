@@ -1,7 +1,7 @@
 ## Hi, I'm Vladyslav
 
-Java Backend Developer | Spring Boot | PostgreSQL
+Java Backend Developer | Spring Boot
 
-My pet project: **[InfoNureBot](https://github.com/iden8/infonurebot)**
+[My pet project](https://github.com/iden8/infonurebot)
 
 [LinkedIn](https://linkedin.com/in/vladyslav-sheveliev/)
